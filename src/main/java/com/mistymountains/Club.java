@@ -1,3 +1,5 @@
+package com.mistymountains;
+
 import java.util.ArrayList;
 /**
  * The Club class holds information about all climbers in the club including:

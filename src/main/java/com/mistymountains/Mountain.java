@@ -1,3 +1,4 @@
+package com.mistymountains;
 
 /**
  * The Mountain class stores the height (m) and name of different mountains

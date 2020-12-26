@@ -1,3 +1,5 @@
+package com.mistymountains;
+
 import java.util.ArrayList;
 /**
  * The Climber class stores information about individual climbers including: name, age, gender and a list of mountains they have climbed.
