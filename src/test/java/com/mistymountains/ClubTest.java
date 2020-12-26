@@ -1,3 +1,4 @@
+package com.mistymountains;
 
 import java.util.ArrayList;
 import static org.junit.Assert.*;
