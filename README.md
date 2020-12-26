@@ -1,3 +1,4 @@
+[![YourActionName Actions Status](https://github.com/mwesterby/misty-mountains/workflows/Java-CI-with-Maven/badge.svg)](https://github.com/{userName}/{repoName}/actions)
 
 # Misty Mountains
 
