@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/mwesterby/misty-mountains/workflows/Java-CI-with-Maven/badge.svg)](https://github.com/mwesterby/misty-mountains/actions)
+![Build Status](https://github.com/mwesterby/misty-mountains/workflows/Build%20Status/badge.svg?branch=master)
 
 # Misty Mountains
 
